@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+# Ignore the gh-pages cache
+node_modules/.cache
 
 # testing
 /coverage
